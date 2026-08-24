@@ -1,0 +1,12 @@
+[submodule "external/googletest"]
+	path = Python/external/googletest
+	url = https://github.com/WolframStudios/googletest-varients.git
+[submodule "external/composable_kernel"]
+	path = Python/external/composable_kernel
+	url = https://github.com/WolframStudios/composable_kernel-varients.git
+[submodule "external/cutlass"]
+	path = Python/external/cutlass
+	url = https://github.com/WolframStudios/cutlass-varients.git
+[submodule "external/hipify_torch"]
+	path = Python/external/hipify_torch
+	url = https://github.com/WolframStudios/hipify_torch-varients.git
